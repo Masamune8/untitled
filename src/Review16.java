@@ -5,7 +5,7 @@ public class Review16 {
         int i = 0;
         while (i <= num) {
             sum = sum + i;
-            i += i + 1;
+            i += 1;
         }
         System.out.println("結果: " + sum);
 
